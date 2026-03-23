@@ -1,16 +1,55 @@
-## Hi there 👋
+# > larissa.exe initialized
 
-<!--
-**larissa-bonasina/larissa-bonasina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+> system booting...
+> role: programming instructor
+> status: active
+```
 
-Here are some ideas to get you started:
+## [ about ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming instructor focused on building structured, scalable and maintainable solutions.
+
+Experience with teaching logic, development fundamentals and guiding students through practical problem-solving.
+
+---
+
+## [ stack ]
+
+```txt
+backend   → PHP / Laravel
+frontend  → JavaScript / Vue
+database  → MySQL
+```
+
+---
+
+## [ current_state ]
+
+```bash
+> improving architecture decisions
+> refining code quality
+> exploring new technologies
+```
+
+---
+
+## [ focus ]
+
+* clean code
+* system organization
+* real-world problem solving
+* continuous learning
+
+---
+
+## [ contact ]
+
+github  → @larissabonasina
+email   → [your@email.com](mailto:your@email.com)
+
+---
+
+```bash
+> end of file
+```
