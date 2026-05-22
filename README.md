@@ -7,7 +7,7 @@
   alt="Computador"
 />
 
-# 👩‍💻 Larissa Bonaasina
+# 👩‍💻 Larissa Bonasina
 
 <p align="left">
 Desenvolvedora FullStack focada em aplicações web, automações e sistemas empresariais.<br><br>
