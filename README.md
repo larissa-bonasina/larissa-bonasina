@@ -7,8 +7,6 @@ Atualmente trabalho com desenvolvimento voltado para:
 - ERP e controle operacional
 - Aplicações web modernas
 
-Gosto de entender não apenas o código, mas também a regra de negócio por trás do sistema.
-
 ---
 
 ## 🚀 Tecnologias
@@ -36,50 +34,5 @@ Gosto de entender não apenas o código, mas também a regra de negócio por tr�
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissa-bonaasina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-bonaasina&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🧠 Atualmente estudando
-
-- Arquitetura de software
-- Sistemas distribuídos
-- Segurança de aplicações
-- IA aplicada ao desenvolvimento
-- Processos fiscais e logísticos no Brasil
-
----
-
-## 📌 Projetos em destaque
-
-Você pode usar esta seção para destacar projetos importantes:
-
-- Sistema de logística e romaneio
-- Automação fiscal
-- ERP interno
-- APIs e integrações
-- Ferramentas internas
-
----
-
-## 🌐 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
-
----
-
-<div align="center">
-
-"Software também é operação, logística e regra de negócio."
 
 </div>
