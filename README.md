@@ -1,38 +1,85 @@
-![](https://komarev.com/ghpvc/?username=larissa-bonaasina&color=006bed)
+<div align="center">
+Atualmente trabalho com desenvolvimento voltado para:
 
-## Sobre mim
+- Sistemas logísticos
+- Processos fiscais brasileiros
+- Integrações e automações
+- ERP e controle operacional
+- Aplicações web modernas
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Trabalhando como Dev FullStack.
+Gosto de entender não apenas o código, mas também a regra de negócio por trás do sistema.
 
-## Minhas Skills
+---
 
-**Aplicações e dados**
+## 🚀 Tecnologias
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+### Backend
 
-**Utilidades**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+### Frontend
 
-**DevOps**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+### Ferramentas
 
-**Ferramentas de desenvolvimento**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+---
 
+## 📊 GitHub Stats
 
+<div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissa-bonaasina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-bonaasina&layout=compact&langs_count=7&theme=tokyonight"/>
 
+</div>
+
+---
+
+## 🧠 Atualmente estudando
+
+- Arquitetura de software
+- Sistemas distribuídos
+- Segurança de aplicações
+- IA aplicada ao desenvolvimento
+- Processos fiscais e logísticos no Brasil
+
+---
+
+## 📌 Projetos em destaque
+
+Você pode usar esta seção para destacar projetos importantes:
+
+- Sistema de logística e romaneio
+- Automação fiscal
+- ERP interno
+- APIs e integrações
+- Ferramentas internas
+
+---
+
+## 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+
+---
+
+<div align="center">
+
+"Software também é operação, logística e regra de negócio."
+
+</div>
